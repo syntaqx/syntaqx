@@ -69,5 +69,5 @@ sponsorship goes toward helping me do this more.
 
 ![Stats](./profile-summary-card-output/github_dark/0-profile-details.svg)
 
-![Languages](./profile-summary-card-output/github_dark/2-most-commit-language-card.svg)
-![Stats](./profile-summary-card-output/github_dark/1-repos-per-language-card.svg)
+![Languages](./profile-summary-card-output/github_dark/2-most-commit-language.svg)
+![Stats](./profile-summary-card-output/github_dark/1-repos-per-language.svg)
