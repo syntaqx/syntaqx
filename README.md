@@ -67,5 +67,7 @@ sponsorship goes toward helping me do this more.
 
 #
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syntaqx&hide=html)
-![syntaqx's github stats](https://github-readme-stats.vercel.app/api?username=syntaqx&show_icons=true&count_private=true&line_height=40)
+![Stats](./profile-summary-card-output/github_dark/0-profile-details.svg)
+
+![Languages](./profile-summary-card-output/github_dark/2-most-commit-language-card.svg)
+![Stats](./profile-summary-card-output/github_dark/1-repos-per-language-card.svg)
