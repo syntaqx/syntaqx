@@ -32,14 +32,14 @@ Sometimes I get bored so I do coding challenges for fun.
 ### Ice Box
 
 - [immutablewebapps.com](https://immutablewebapps.com) · A framework-agnostic methodology for building and deploying static SPAs.
-- [go-metrics-datadog](https://github.com/syntaqx/go-metrics-datadog) · DataDog client reporter for go-metrics
 
 ### Archived
 
+- [cachew](https://github.com/syntaqx/cachew) · Powerfully simple caching library
 - [collect](https://github.com/syntaqx/collect) - Go package that provides functions to perform operations on collections of data
 - [echo-middleware](https://github.com/syntaqx/echo-middleware) · HTTP middlewares implemented for echo
+- [go-metrics-datadog](https://github.com/syntaqx/go-metrics-datadog) · DataDog client reporter for go-metrics
 - [pass-meter](https://github.com/syntaqx/pass-meter) · Simple password strength testing
-- [cachew](https://github.com/syntaqx/cachew) · Powerfully simple caching library
 
 ## Identities
 
