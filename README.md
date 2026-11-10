@@ -13,13 +13,13 @@
 
 ## ✍️ Recent posts
 
-| | |
-| --- | --- |
-| [Building It Isn't Owning It](https://www.syntaqx.com/posts/building-it-isnt-owning-it) | Anyone can build an app over a weekend now. Owning it is the part that costs. |
-| [We've Been "Vibe Coding" This Whole Time](https://www.syntaqx.com/posts/weve-been-vibe-coding-this-whole-time) | Every promotion moved you further from the code. Now every engineer gets a small org chart. |
-| [We Called It Progress](https://www.syntaqx.com/posts/we-called-it-progress) | Decades of software that made other people's jobs cheaper. Now it's happening to us. |
-| [Control Isn't Success](https://www.syntaqx.com/posts/control-isnt-success) | Shipping a CRM rebuild a year early, then breaking everything else. |
-| [The Thinking Tax](https://www.syntaqx.com/posts/the-thinking-tax) | What goes missing when the tool thinks first. |
+<table>
+  <tr><td><a href="https://www.syntaqx.com/posts/building-it-isnt-owning-it">Building It Isn't Owning It</a></td><td>Anyone can build an app over a weekend now. Owning it is the part that costs.</td></tr>
+  <tr><td><a href="https://www.syntaqx.com/posts/weve-been-vibe-coding-this-whole-time">We've Been "Vibe Coding" This Whole Time</a></td><td>Every promotion moved you further from the code. Now every engineer gets a small org chart.</td></tr>
+  <tr><td><a href="https://www.syntaqx.com/posts/we-called-it-progress">We Called It Progress</a></td><td>Decades of software that made other people's jobs cheaper. Now it's happening to us.</td></tr>
+  <tr><td><a href="https://www.syntaqx.com/posts/control-isnt-success">Control Isn't Success</a></td><td>Shipping a CRM rebuild a year early, then breaking everything else.</td></tr>
+  <tr><td><a href="https://www.syntaqx.com/posts/the-thinking-tax">The Thinking Tax</a></td><td>What goes missing when the tool thinks first.</td></tr>
+</table>
 
 <sub>[All posts →](https://www.syntaqx.com/posts)</sub>
 
@@ -49,35 +49,63 @@ Standards for building software, from HTTP fundamentals to leading the team.
 
 Long reads that apply the playbook to one industry at a time: how its rules, money and regulators shape the systems you build.
 
-| | | |
-| --- | --- | --- |
-| [Banking & Lending](https://www.syntaqx.com/books/banking-and-lending) | [Commerce](https://www.syntaqx.com/books/commerce) | [Field Operations](https://www.syntaqx.com/books/field-operations) |
-| [Gaming](https://www.syntaqx.com/books/gaming) | [Health Tech](https://www.syntaqx.com/books/health-tech) | [Hosting & Cloud](https://www.syntaqx.com/books/hosting-and-cloud) |
-| [Investing & Digital Assets](https://www.syntaqx.com/books/investing-and-digital-assets) | [Payments](https://www.syntaqx.com/books/payments) | [Property Tech](https://www.syntaqx.com/books/property-tech) |
-| [User-Generated Platforms](https://www.syntaqx.com/books/user-generated-platforms) | [Workplace & Collaboration](https://www.syntaqx.com/books/workplace-and-collaboration) | |
+<table>
+  <tr>
+    <td><a href="https://www.syntaqx.com/books/banking-and-lending">Banking &amp; Lending</a></td>
+    <td><a href="https://www.syntaqx.com/books/commerce">Commerce</a></td>
+    <td><a href="https://www.syntaqx.com/books/field-operations">Field Operations</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.syntaqx.com/books/gaming">Gaming</a></td>
+    <td><a href="https://www.syntaqx.com/books/health-tech">Health Tech</a></td>
+    <td><a href="https://www.syntaqx.com/books/hosting-and-cloud">Hosting &amp; Cloud</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.syntaqx.com/books/investing-and-digital-assets">Investing &amp; Digital Assets</a></td>
+    <td><a href="https://www.syntaqx.com/books/payments">Payments</a></td>
+    <td><a href="https://www.syntaqx.com/books/property-tech">Property Tech</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.syntaqx.com/books/user-generated-platforms">User-Generated Platforms</a></td>
+    <td><a href="https://www.syntaqx.com/books/workplace-and-collaboration">Workplace &amp; Collaboration</a></td>
+    <td></td>
+  </tr>
+</table>
 
 ## 🧰 Tools
 
 Free, in-browser developer tools at [syntaqx.com/tools](https://www.syntaqx.com/tools), plus
 [UI components](https://www.syntaqx.com/ui) you can add to your own app.
 
-| | | |
-| --- | --- | --- |
-| [JWT debugger](https://www.syntaqx.com/tools/jwt) | [UUID & ULID](https://www.syntaqx.com/tools/uuid) | [One-time secrets](https://www.syntaqx.com/tools/secrets) |
-| [Converters](https://www.syntaqx.com/tools/convert) | [JavaScript](https://www.syntaqx.com/tools/js) | [Markdown](https://www.syntaqx.com/tools/markdown) |
-| [whoami](https://www.syntaqx.com/tools/whoami) | [API reference](https://www.syntaqx.com/docs/api) | |
+<table>
+  <tr>
+    <td><a href="https://www.syntaqx.com/tools/jwt">JWT debugger</a></td>
+    <td><a href="https://www.syntaqx.com/tools/uuid">UUID &amp; ULID</a></td>
+    <td><a href="https://www.syntaqx.com/tools/secrets">One-time secrets</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.syntaqx.com/tools/convert">Converters</a></td>
+    <td><a href="https://www.syntaqx.com/tools/js">JavaScript</a></td>
+    <td><a href="https://www.syntaqx.com/tools/markdown">Markdown</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.syntaqx.com/tools/whoami">whoami</a></td>
+    <td><a href="https://www.syntaqx.com/docs/api">API reference</a></td>
+    <td></td>
+  </tr>
+</table>
 
 ## 🛠️ Open source
 
-| | Project | What it does |
-| :-: | --- | --- |
-| 🍪 | [cookie](https://github.com/syntaqx/cookie) | Cookie structs for Go |
-| 🌱 | [env](https://github.com/syntaqx/env) | Environment variable utilities |
-| 🫙 | [nullable](https://github.com/syntaqx/nullable) | Nullable types in Go with JSON serialization |
-| 🍽️ | [serve](https://github.com/syntaqx/serve) | A static HTTP server anywhere you need one |
-| 📣 | [echo-server](https://github.com/syntaqx/echo-server) | A simple server for HTTP testing |
-| 🎣 | [git-hooks](https://github.com/syntaqx/git-hooks) | Useful Git hooks for pre-commit |
-| ⚓ | [setup-kustomize](https://github.com/syntaqx/setup-kustomize) | GitHub Action that installs Kustomize |
+| Project | What it does |
+| --- | --- |
+| 🍪 [cookie](https://github.com/syntaqx/cookie) | Cookie structs for Go |
+| 🌱 [env](https://github.com/syntaqx/env) | Environment variable utilities |
+| 🫙 [nullable](https://github.com/syntaqx/nullable) | Nullable types in Go with JSON serialization |
+| 🍽️ [serve](https://github.com/syntaqx/serve) | A static HTTP server anywhere you need one |
+| 📣 [echo-server](https://github.com/syntaqx/echo-server) | A simple server for HTTP testing |
+| 🎣 [git-hooks](https://github.com/syntaqx/git-hooks) | Useful Git hooks for pre-commit |
+| ⚓ [setup-kustomize](https://github.com/syntaqx/setup-kustomize) | GitHub Action that installs Kustomize |
 
 <details>
 <summary><b>Coding challenges</b>, done for fun when I get bored</summary>
