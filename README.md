@@ -1,6 +1,6 @@
 # syntaqx (/ˈsɪnˌtæks/)
 
-https://syntaqx.com
+https://www.syntaqx.com
 
 |                                                            |           |
 | ---------------------------------------------------------- | --------- |
@@ -10,6 +10,17 @@ https://syntaqx.com
 | ![Color](https://img.shields.io/badge/-%2395B1AE-95B1AE)   | `#95B1AE` |
 | ![Color](https://img.shields.io/badge/-%23FF9CC7-FF9CC7)   | `#FF9CC7` |
 | ![Color](https://img.shields.io/badge/-%23C86691-C86691)   | `#C86691` |
+
+## Writing
+
+- [API design principles](https://www.syntaqx.com/docs/api-design/principles)
+- [API naming conventions](https://www.syntaqx.com/docs/api-design/naming-conventions)
+- [Pagination](https://www.syntaqx.com/docs/requests/pagination)
+- [Error responses](https://www.syntaqx.com/docs/requests/error-responses)
+- [Idempotency](https://www.syntaqx.com/docs/requests/idempotency)
+- [Database naming conventions](https://www.syntaqx.com/docs/database/naming-conventions)
+- [Passing secrets to manual GitHub Actions workflows](https://www.syntaqx.com/posts/github-actions-secret-inputs)
+- [Industry books](https://www.syntaqx.com/books)
 
 ## Projects
 
