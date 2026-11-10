@@ -1,4 +1,9 @@
-<a href="https://www.syntaqx.com"><img src="./assets/banner.svg" alt="syntaqx, pronounced /ˈsɪnˌtæks/" width="100%"></a>
+<a href="https://www.syntaqx.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+    <img src="./assets/banner-light.svg" alt="syntaqx, pronounced /ˈsɪnˌtæks/" width="100%">
+  </picture>
+</a>
 
 <p align="center">
   <a href="https://www.syntaqx.com/docs/playbook"><b>Playbook</b></a> ·
