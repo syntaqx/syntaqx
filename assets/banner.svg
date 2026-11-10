@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="160" viewBox="0 0 720 160" role="img" aria-labelledby="title">
-  <title id="title">syntaqx: standards and tools for building software that holds up</title>
-  <!-- Colors are the syntaqx.com :root tokens. Slants use the site's 0.15 tilt (12px over 80px). -->
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="140" viewBox="0 0 720 140" role="img" aria-labelledby="title">
+  <title id="title">syntaqx</title>
+  <!-- Colors are the syntaqx.com :root tokens. Slants use the site's 0.15 tilt. Logo is syntaqx.com/brand.svg. -->
   <defs>
     <clipPath id="card">
-      <rect x="0" y="0" width="720" height="160"/>
+      <rect x="0" y="0" width="720" height="140"/>
     </clipPath>
   </defs>
   <style>
@@ -11,18 +11,21 @@
     .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
   </style>
 
-  <rect x="0" y="0" width="720" height="160" fill="#0A0C0C"/>
+  <rect x="0" y="0" width="720" height="140" fill="#0A0C0C"/>
   <g clip-path="url(#card)">
     <!-- slanted bands, right edge -->
-    <polygon points="568,0 600,0 576,160 544,160" fill="#0F1313"/>
-    <polygon points="608,0 640,0 616,160 584,160" fill="#0C4F4B"/>
-    <polygon points="648,0 730,0 730,160 624,160" fill="#00D1CA"/>
-    <!-- teal rule under the name -->
-    <polygon points="42,102 114,102 113.1,108 41.1,108" fill="#00D1CA"/>
+    <polygon points="575.5,0 607.5,0 586.5,140 554.5,140" fill="#0F1313"/>
+    <polygon points="615.5,0 647.5,0 626.5,140 594.5,140" fill="#0C4F4B"/>
+    <polygon points="655.5,0 730,0 730,140 634.5,140" fill="#00D1CA"/>
   </g>
-  <rect x="0.5" y="0.5" width="719" height="159" fill="none" stroke="#1C2423"/>
+  <rect x="0.5" y="0.5" width="719" height="139" fill="none" stroke="#1C2423"/>
 
-  <text x="40" y="46" class="mono" font-size="12" letter-spacing="0.18em" fill="#84908E">/ˈsɪnˌtæks/</text>
-  <text x="38" y="88" class="sans" font-size="40" font-weight="700" fill="#E6ECE9">syntaqx</text>
-  <text x="40" y="136" class="sans" font-size="14" fill="#A7B2B0">APIs, architecture, operations and the people who ship them</text>
+  <!-- logo -->
+  <g transform="translate(40 26) scale(0.17)" fill="#00D1CA">
+    <path d="M433 358c-1 20-18 27-32 35l-60 34-94 55c-17 9-33-3-47-11l-59-34-95-55c-17-9-14-29-14-45V159c0-19 19-27 33-35l59-34 94-55c17-10 33 3 47 11l59 34 95 54c17 10 14 30 14 46v178c0 21 32 21 32 0V180c0-16 1-32-6-47-10-17-23-25-39-35l-57-33L263 8c-39-23-79 10-112 29L36 104c-20 11-36 31-36 55v180c0 17 0 32 9 49 8 16 23 23 38 32l123 71 32 18c21 12 46 9 66-3l116-66c34-20 78-36 81-82 1-21-31-21-32 0zM103 222v-30l130-75 129 75 33-19-162-93-163 93v67l163 94 129-75v66l-129 75-130-75v-28l-33-16v63l163 93 162-93V203l-162 93-130-74z"/>
+  </g>
+
+  <text x="142" y="54" class="mono" font-size="12" letter-spacing="0.18em" fill="#84908E">/ˈsɪnˌtæks/</text>
+  <text x="140" y="96" class="sans" font-size="40" font-weight="700" fill="#E6ECE9">syntaqx</text>
+  <polygon points="144,108 216,108 215.1,114 143.1,114" fill="#00D1CA"/>
 </svg>

@@ -11,10 +11,6 @@
   <a href="https://www.syntaqx.com/resume"><b>Résumé</b></a>
 </p>
 
-I write an architectural playbook of standards for APIs, HTTP, payments,
-architecture, operations and delivery at **[syntaqx.com](https://www.syntaqx.com)**,
-and build small, focused Go packages and developer tools.
-
 ## ✍️ Recent posts
 
 | | |
@@ -48,10 +44,6 @@ Standards for building software, from HTTP fundamentals to leading the team.
 | [Database](https://www.syntaqx.com/docs/database/naming-conventions) | [Money](https://www.syntaqx.com/docs/money/amounts) | [Telemetry](https://www.syntaqx.com/docs/telemetry/event-design) | |
 | [Data](https://www.syntaqx.com/docs/data/separating-production-and-analytics) | [Security](https://www.syntaqx.com/docs/security/threat-modeling) | [Quality](https://www.syntaqx.com/docs/quality/strategy) | |
 | | [Compliance](https://www.syntaqx.com/docs/compliance/pci-dss) | | |
-
-> [!TIP]
-> Read the playbook from your editor. The [syntaqx MCP server](https://www.syntaqx.com/docs/mcp)
-> connects Claude Code, Cursor, VS Code or any MCP client to the playbook, posts and books.
 
 ## 📚 Books
 
