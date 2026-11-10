@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="64" viewBox="0 0 720 64" role="img" aria-labelledby="title">
+  <title id="title">syntaqx palette: primary #00D1CA, accent #0C4F4B, background #0A0C0C, border #1C2423, subtle #A7B2B0, foreground #E6ECE9</title>
+  <!-- Colors mirror the :root tokens on syntaqx.com. Swatch edges use the site's 0.15 tilt. -->
+  <defs>
+    <clipPath id="strip">
+      <rect x="0" y="0" width="720" height="64"/>
+    </clipPath>
+  </defs>
+  <style>
+    text {
+      font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+      text-anchor: middle;
+    }
+    .hex  { font-size: 13px; font-weight: 700; letter-spacing: 0.04em; }
+    .role { font-size: 10px; font-weight: 500; letter-spacing: 0.12em; text-transform: uppercase; opacity: 0.75; }
+  </style>
+  <g clip-path="url(#strip)">
+    <polygon points="-10,0 204.8,0 195.2,64 -10,64"      fill="#00D1CA"/>
+    <polygon points="204.8,0 308.8,0 299.2,64 195.2,64"  fill="#0C4F4B"/>
+    <polygon points="308.8,0 412.8,0 403.2,64 299.2,64"  fill="#0A0C0C"/>
+    <polygon points="412.8,0 516.8,0 507.2,64 403.2,64"  fill="#1C2423"/>
+    <polygon points="516.8,0 620.8,0 611.2,64 507.2,64"  fill="#A7B2B0"/>
+    <polygon points="620.8,0 730,0 730,64 611.2,64"      fill="#E6ECE9"/>
+  </g>
+  <rect x="0.5" y="0.5" width="719" height="63" fill="none" stroke="#2F3A39"/>
+
+  <text x="100" y="30" class="hex"  fill="#041312">#00D1CA</text>
+  <text x="100" y="46" class="role" fill="#041312">primary</text>
+
+  <text x="252" y="30" class="hex"  fill="#E6ECE9">#0C4F4B</text>
+  <text x="252" y="46" class="role" fill="#E6ECE9">accent</text>
+
+  <text x="356" y="30" class="hex"  fill="#00D1CA">#0A0C0C</text>
+  <text x="356" y="46" class="role" fill="#A7B2B0">background</text>
+
+  <text x="460" y="30" class="hex"  fill="#E6ECE9">#1C2423</text>
+  <text x="460" y="46" class="role" fill="#A7B2B0">border</text>
+
+  <text x="564" y="30" class="hex"  fill="#0A0C0C">#A7B2B0</text>
+  <text x="564" y="46" class="role" fill="#0A0C0C">subtle</text>
+
+  <text x="668" y="30" class="hex"  fill="#0A0C0C">#E6ECE9</text>
+  <text x="668" y="46" class="role" fill="#0A0C0C">foreground</text>
+</svg>
