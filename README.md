@@ -104,6 +104,7 @@ Free, in-browser developer tools at [syntaqx.com/tools](https://www.syntaqx.com/
 
 | Project | What it does |
 | --- | --- |
+| 🧲 [yoink](https://github.com/syntaqx/yoink) | Clone every repo in an organization and keep them all up to date |
 | 🍪 [cookie](https://github.com/syntaqx/cookie) | Cookie structs for Go |
 | 🌱 [env](https://github.com/syntaqx/env) | Environment variable utilities |
 | 🫙 [nullable](https://github.com/syntaqx/nullable) | Nullable types in Go with JSON serialization |
